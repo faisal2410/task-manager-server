@@ -9,6 +9,8 @@
  * For Each Project one time
  * ...........................
  * 1.Heroku Create
+ * 2. make sure you add . commit and push to git
+ * 3. git push heroku master
  * 
  * 
  * 
